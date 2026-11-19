@@ -1,4 +1,4 @@
-package com.example.roomdatabase.view.uicontroller
+package com.example.roomdatabase.uicontroller
 
 import com.example.roomdatabase.R
 
