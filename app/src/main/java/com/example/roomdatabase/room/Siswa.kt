@@ -1,7 +1,8 @@
 package com.example.roomdatabase.room
 
-import androidx.room3.Entity
-import androidx.room3.PrimaryKey
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+import com.example.roomdatabase.viewmodel.UIStateSiswa
 
 @Entity(tableName = "tblsiswa")
 data class Siswa(
